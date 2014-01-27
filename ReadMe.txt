@@ -1,0 +1,1 @@
+This is a simple into to the VersionOne API and uses the app.config file for server settings.
